@@ -1,10 +1,7 @@
 # Sort Visualiser (sort-visualiser)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/devsebastian/sort-visualiser/issues) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/devsebastian/sort-visualiser/blob/master/LICENSE) 
-[![twitter](https://img.shields.io/badge/twitter-@iDevSebastian-green.svg)](https://twitter.com/iDevSebastian)
 
-A super simple and super cool sort visualizing app created purely in HTML, CSS and JavaScript by [**Dev Sebastian**](https://github.com/devsebastian)
+A super simple and super cool sort visualizing app created purely in HTML, CSS and JavaScript.
   
 **App Link:** https://sort-visualiser.herokuapp.com/
 
@@ -40,4 +37,4 @@ Animated visuals to easilly understand each kind of sort. you can play or pause 
 1. and all the other sorting algorithms...
 
 ---
-<sub>Built with ❤︎ by <a href="https://github.com/devsebastian">Dev Sebastian</a></sub>
+
