@@ -3,7 +3,7 @@
 
 A super simple and super cool sort visualizing app created purely in HTML, CSS and JavaScript.
   
-**App Link:** https://sort-visualiser.herokuapp.com/
+**App Link:** https://iprathamjain.github.io/Sort-Visualizer-4/
 
 A simple sort visualising app to visualise each kind of sort in a beautiful and intuitive manner. 
 
